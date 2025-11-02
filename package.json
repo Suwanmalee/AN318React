@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Suwanmalee.github.io/my-site",
+  "homepage": "https://Suwanmalee.github.io/AN318React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
